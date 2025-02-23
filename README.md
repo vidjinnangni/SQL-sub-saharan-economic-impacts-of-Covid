@@ -1,4 +1,4 @@
-#📊 Sub-Saharan Economic Impacts of COVID-19 - SQL Portfolio
+# 📊 Sub-Saharan Economic Impacts of COVID-19 - SQL Portfolio
 This project explores **the economic impacts of COVID-19 in Sub-Saharan Africa** using a dataset from *Kaggle*. The objective is to structure and analyze the data using **MySQL** and produce visualizations.
 
 [Dataset Kaggle - Sub-Saharan Economic Impacts of COVID-19
