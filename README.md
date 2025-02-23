@@ -75,7 +75,7 @@ cd SQL-sub-saharan-economic-impacts-of-Covid
 ```
 
 ### 2️⃣ Import database to MySQL
-```bash
+```sql
 SOURCE db_schema.sql;
 SOURCE insert_data.sql;
 ```
